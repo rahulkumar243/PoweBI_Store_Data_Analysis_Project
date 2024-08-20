@@ -14,13 +14,15 @@ Inventory Management: Visualization of stock levels, turnover rates, and invento
 
 Customer Insights: Analysis of customer behavior, including purchase patterns and demographics.
 
-Results-This dashboard provides actionable insights that can help store managers:
+
+Results:This dashboard provides actionable insights that can help store managers:
 
 Identify top-selling products and underperformers.
 
 Optimize inventory levels to reduce costs.
 
 Understand customer preferences to tailor marketing efforts.
+
 
 Acknowledgements:
 
